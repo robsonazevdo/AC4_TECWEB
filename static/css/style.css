@@ -1,0 +1,10 @@
+.row {
+    height: 60em;
+}
+
+.coluna {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
